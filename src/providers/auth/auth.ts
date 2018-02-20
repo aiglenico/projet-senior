@@ -12,5 +12,5 @@ import firebase from '@ionic-native/firebase';
 export class AuthData {
 
   constructor() {}
-
+  
 }
